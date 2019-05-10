@@ -1,0 +1,39 @@
+body{
+	background: lightblue;
+	font-family: "Arial";
+	font-size: 20px;
+}
+
+#container{
+	width: 60%;
+	background: white;
+	margin: 20px auto;
+	overflow: auto;
+	padding: 30px;
+}
+
+header{
+	text-align: center;
+	border-bottom: dashed 1px;
+
+}
+
+header h1{
+	margin: 0;
+	padding: 0;
+}
+
+header p{
+	padding: 0;
+	margin-top: 5px;
+
+}
+
+section{
+	min-height: 450px;
+}
+
+.butt{
+	cursor: pointer;
+}
+
